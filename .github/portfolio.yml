@@ -18,6 +18,16 @@ skills:
       light: "skill-icons:javascript"
       dark: "skill-icons:javascript"
 
+  - name: "PWA"
+    icon:
+      light: "logos:pwa"
+      dark: "logos:pwa"
+
+  - name: "Vercel"
+    icon:
+      light: "skill-icons:vercel-light"
+      dark: "skill-icons:vercel-dark"
+
   - name: "GitHub"
     icon:
       light: "skill-icons:github-light"
