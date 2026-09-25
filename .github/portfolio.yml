@@ -1,0 +1,24 @@
+featured: false
+
+title:
+  fa: "مدیریت وظایف با JavaScript"
+  en: "Task Manager JS"
+
+description:
+  fa: "اپلیکیشن مدیریت وظایف با JavaScript خالص، با معماری ماژولار، پشتیبانی از PWA، حالت آفلاین، دسترسی‌پذیری و تمرکز بر عملکرد."
+  en: "A production-inspired task management app built with vanilla JavaScript, featuring modular architecture, PWA support, offline capability, accessibility, and performance-focused design."
+
+banner: "https://raw.githubusercontent.com/farid-teymouri/task-manager-js/main/public/screenshot-1.svg"
+
+preview: "https://todo-list-sooty-eight-88.vercel.app/"
+
+skills:
+  - name: "JavaScript"
+    icon:
+      light: "skill-icons:javascript"
+      dark: "skill-icons:javascript"
+
+  - name: "GitHub"
+    icon:
+      light: "skill-icons:github-light"
+      dark: "skill-icons:github-dark"
