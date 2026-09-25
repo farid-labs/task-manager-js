@@ -8,7 +8,7 @@ description:
   fa: "اپلیکیشن مدیریت وظایف با JavaScript خالص، با معماری ماژولار، پشتیبانی از PWA، حالت آفلاین، دسترسی‌پذیری و تمرکز بر عملکرد."
   en: "A production-inspired task management app built with vanilla JavaScript, featuring modular architecture, PWA support, offline capability, accessibility, and performance-focused design."
 
-banner: "https://raw.githubusercontent.com/farid-teymouri/task-manager-js/main/public/screenshot-1.svg"
+banner: "/public/screenshot-1.svg"
 
 preview: "https://todo-list-sooty-eight-88.vercel.app/"
 
